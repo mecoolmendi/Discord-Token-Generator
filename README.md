@@ -1,5 +1,4 @@
-# Discord-Member-Boost
-Creates Unverified Discord Tokens, Can Tokens can be used for Mass Member Boosting. Uses the latest hCaptcha Bypasser.
+
 
 
 <h1 align="center">Hey everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is DTG Booster </h1>
