@@ -20,7 +20,7 @@
 
 
 <p align="left"> 
-    <a href="https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw" target="_blank"> <img src="https://i.imgur.com/PRQNsd1.gif"/> </a> 
+    <a href="https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw" target="_blank"> <img src="https://i.imgur.com/DJZ9H00.gif"/> </a> 
 
 
 
