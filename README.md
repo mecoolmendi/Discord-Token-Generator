@@ -13,7 +13,7 @@
 
 - 🚀 You can find the source code  **@ [My Discord Server](https://discord.link/200IQ)**
 
-- 📫 Comes with the latest **hCaptcha Bypasser Method**, Accepting now only 3/ slots / **PayPal**.
+- 📫 Comes with the latest **hCaptcha Bypasser Method**, Accepting now only 3/ slots / $100 **PayPal**.
 
 
 
