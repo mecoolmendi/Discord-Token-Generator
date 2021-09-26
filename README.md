@@ -24,7 +24,7 @@
 
 
 
- #  ⚡ DTG Booster **[Showcase](https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw)**
+ #  ⚡ DTG Booster **[Showcase YT DELETED!](https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw)**
  ## **Latest Update** 15/9/2021 
  ## **Free HTTP Proxy Support Added!**
  ## **Discord DB Usernames with {Symbols}**
@@ -38,7 +38,7 @@
 
 ## **Connect with me:**
 <a href = "https://www.instagram.com/destruction.jpg/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/channel/UCRLIU8XNvGarVRu18XBCtqQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
