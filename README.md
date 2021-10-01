@@ -24,7 +24,7 @@
 
 
 
- #  ⚡ DTG Booster **[Showcase YT DELETED!](https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw)**
+ #  ⚡ DTG Booster **[Showcase](https://www.youtube.com/watch?v=o8cF6JRD70Y&t=5s)**
  ## **Latest Update** 15/9/2021 
  ## **Free HTTP Proxy Support Added!**
  ## **Discord DB Usernames with {Symbols}**
