@@ -47,3 +47,8 @@
     <img src="https://komarev.com/ghpvc/?username=24host">
 </a>
 <a href="https://github.com/24host?tab=followers"><img src="https://img.shields.io/github/followers/24host?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+============================================================================
+Buy me a Coffee BTC Wallet: bc1qy88c96y4ghwng4twu9hnpqww3mghgv5dz0dedj
+============================================================================
