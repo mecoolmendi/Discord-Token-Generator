@@ -20,7 +20,7 @@
 
 
 <p align="left"> 
-    <a href="https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw" target="_blank"> <img src="https://i.imgur.com/DJZ9H00.gif"/> </a> 
+    <a href="https://www.youtube.com/watch?v=8je-rogndFM" target="_blank"> <img src="https://i.imgur.com/DJZ9H00.gif"/> </a> 
 
 
 
@@ -29,7 +29,7 @@
  ## **Free HTTP Proxy Support Added!**
  ## **Discord DB Usernames with {Symbols}**
 <p align="left"> 
-    <a href="https://www.youtube.com/channel/UCyLR4Dz8W9UFYZP_myK67Qw" target="_blank"> <img src="https://i.imgur.com/s3XSFoc.png"/> </a> 
+    <a href="https://www.youtube.com/watch?v=8je-rogndFM" target="_blank"> <img src="https://i.imgur.com/s3XSFoc.png"/> </a> 
 
 <p align="left">
 
