@@ -23,7 +23,7 @@
 
 
  #  ⚡ DTG Booster **[Showcase](https://www.youtube.com/watch?v=o8cF6JRD70Y&t=5s)**
- ## **Latest Update** 15/9/2021 
+ ## **Latest Update** 26/10/2021 
  ## **Free HTTP Proxy Support Added!**
  ## **Discord DB Usernames with {Symbols}**
 <p align="left"> 
