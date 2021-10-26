@@ -1,19 +1,17 @@
 
 
 
-<h1 align="center">Hey everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is DTG Booster </h1>
+<h1 align="center">Hey everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Mass Gen [v2] </h1>
 
 
 
 
-- Working on: **Discord Member Booster | DTG**
+
 - Comes with: **HTTP Proxy Support / FREE Scraped Threads: [100]**
 - Unlimited: **Unverified Tokens / Realistic Names Joinable for Online Memberboosting!**
-
-- 🚀 **@ Demonstration: (https://www.youtube.com/watch?v=8je-rogndFM)**
+- 🚀 **@ Demonstration: https://vimeo.com/633663004
 - 🚀 You can find the source code  **@ [My Discord Server](https://discord.link/200IQ)**
-
-- 📫 Comes with the latest **hCaptcha Bypasser Method**, $70 for licese $120 for source code.
+- 📫 Comes with the latest **hCaptcha Bypasser Method**, $70 for License and $120 for source code.
 
 
 
