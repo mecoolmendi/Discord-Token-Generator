@@ -18,7 +18,7 @@
 
 
 <p align="left"> 
-    <a href="https://www.youtube.com/watch?v=8je-rogndFM" target="_blank"> <img src="https://i.imgur.com/NGTsvaO.gif"/> </a> 
+    <a href="https://vimeo.com/633663004" target="_blank"> <img src="https://i.imgur.com/NGTsvaO.gif"/> </a> 
 
 
 
@@ -27,7 +27,7 @@
  ## **Free HTTP Proxy Support Added!**
  ## **Discord DB Usernames with {Symbols}**
 <p align="left"> 
-    <a href="https://www.youtube.com/watch?v=8je-rogndFM" target="_blank"> <img src="https://i.imgur.com/s3XSFoc.png"/> </a> 
+    <a href="https://vimeo.com/633663004" target="_blank"> <img src="https://i.imgur.com/s3XSFoc.png"/> </a> 
 
 <p align="left">
 
@@ -36,7 +36,7 @@
 
 ## **Connect with me:**
 <a href = "https://www.instagram.com/destruction.jpg/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCRLIU8XNvGarVRu18XBCtqQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 
 </p>
 
