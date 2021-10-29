@@ -10,7 +10,7 @@
 - Comes with: **HTTP Proxy Support / FREE Scraped Threads: [100]**
 - Unlimited: **Unverified Tokens / Realistic Names Joinable for Online Memberboosting!**
 - 🚀 **@ Demonstration: https://vimeo.com/633663004
-- 🚀 You can find the source code  **@ [My Discord Server](https://discord.gg/FQTfmdbWhG)** <======
+- 🚀 You can find the source code  **@ [My Discord Server](https://discord.gg/FQTfmdbWhG)** <========
 - 📫 Comes with the latest **hCaptcha Bypasser Method**, Source Code is up for Sale $150
 
 
