@@ -9,7 +9,7 @@ def hi():
     
     
 mainwindow = tkinter.Tk()
-mainwindow.title("Best Discord Token Generator | hCaptcha Bypass *Latest Method")
+mainwindow.title("Best Discord Token Generator | hCaptcha Bypass *Latest Method | 2022")
 mainwindow.geometry("720x720") 
 mainwindow.configure(bg="#141414")
 
