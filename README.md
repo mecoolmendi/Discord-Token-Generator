@@ -7,13 +7,18 @@
 
 
 
-- Comes with: **HTTP Proxy Support / FREE Scraped Threads: [100]**
-- Unlimited: **Unverified Tokens / Realistic Names Joinable for Online Memberboosting!**
-- 🚀 **@ Demonstration: https://vimeo.com/633663004
-- 🚀 You can find the source code  **@ [My Discord Server](https://discord.gg/QXsDrTgf9U)** <========
-- 📫 Comes with the latest **hCaptcha Bypasser Method**, Source Code is up for Sale $150
+
+- *Supports FREE HTTP/Proxies*
+- *Makes unverified "Tokens"*
+- *They Automatically Join the Server After Creation.*
+
+-  Demonstration Video: (https://vimeo.com/633663004)
+-  *Comes with the Latest hCaptcha Bypass* **METHOD**
+- Source Code For Sale $150 Crypto,PayPal **@ [buy here](https://discord.gg/QXsDrTgf9U)** <==
 
 
+<iframe src="https://player.vimeo.com/video/633663004?h=33c16df6de" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/633663004">Token Gen.mp4</a> from <a href="https://vimeo.com/user154580234">Destruction JPG</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 
@@ -22,10 +27,11 @@
 
 
 
- #  ⚡ Best Discord Account Creator **[Showcase](https://vimeo.com/633663004)**
- ## **Latest Update** 26/10/2021 
- ## **Free HTTP Proxy Support Added!**
- ## **Discord DB Usernames with {Symbols}**
+ #  ⚡ Mass Gen [v.2] **[Showcase](https://vimeo.com/633663004)**
+ **Latest Update** 31/10/2021 
+ 
+ *Free Proxy Support Added!*
+ & *Discord DB Usernames with {Symbols}*
 <p align="left"> 
     <a href="https://vimeo.com/633663004" target="_blank"> <img src="https://i.imgur.com/s3XSFoc.png"/> </a> 
 
