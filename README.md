@@ -17,12 +17,7 @@
 - Source Code For Sale $150 Crypto,PayPal **@ [buy here](https://discord.gg/QXsDrTgf9U)** <==
 
 
-<iframe src="https://vimeo.com/633663004" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/633663004">
 
-
-<p align="left"> 
-    <a href="https://vimeo.com/633663004" target="_blank"> <img src="https://i.imgur.com/NGTsvaO.gif"/> </a> 
 
 
 
