@@ -22,7 +22,7 @@
 
 
  #  ⚡ Mass Gen [v.2] **[Showcase](https://vimeo.com/633663004)**
- **Latest Update** 31/10/2021 
+ **Latest Update** 1/10/2021
  
  *Free Proxy Support Added!*
  & *Discord DB Usernames with {Symbols}*
